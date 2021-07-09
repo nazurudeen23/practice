@@ -37,6 +37,6 @@ let number = 10;
 // typeof
 console.log(typeof numberObject);
 console.log(typeof number);
-// instanceof
+// instanceofobj
 console.log(numberObject instanceof Number); // true
 console.log(number instanceof Number); // false
